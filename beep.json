@@ -1,6 +1,6 @@
 {
   "ad_setting": {
-    "use_these": "yes",
+    "use_these": "no",
     "wait_time_min": 180000,
     "wait_time_max": 720000,
     "ad_linger_min": 1600,
