@@ -5,7 +5,7 @@
     "wait_time_max": 720000,
     "ad_linger_min": 1600,
     "ad_linger_max": 3000,
-    "bg_colour": "#22A222",
+    "bg_colour": "#22aa77",
     "fg_colour": "#aaee44",
     "font_size":12
   }
