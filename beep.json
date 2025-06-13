@@ -1,8 +1,8 @@
 {
   "ad_setting": {
-    "use_these": "no",
-    "wait_time_min": 180000,
-    "wait_time_max": 720000,
+    "use_these": "yes",
+    "wait_time_min": 140000,
+    "wait_time_max": 620000,
     "ad_linger_min": 1600,
     "ad_linger_max": 3000,
     "bg_colour": "#222222",
