@@ -6,7 +6,7 @@
     "ad_linger_min": 1700,
     "ad_linger_max": 3000,
     "bg_colour": "#222222",
-    "fg_colour": "#aaee44",
+    "fg_colour": "#0099ff",
     "font_size":12
   }
 }
